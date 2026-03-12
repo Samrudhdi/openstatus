@@ -45,6 +45,9 @@
     "@openstatus/dashboard#dev": {
       "cache": false
     },
+    "@openstatus/db#dev": {
+      "cache": false
+    },
     "test": {
       "cache": false
     },
